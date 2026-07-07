@@ -1,1 +1,63 @@
 [06/07/2026 20:17:57] ERROR: Correo electrónico inválido.
+[06/07/2026 20:45:25] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 20:45:25] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 20:45:25] ERROR: Nombre vacío.
+[06/07/2026 20:45:25] ERROR: El nombre no puede estar vacío.
+[06/07/2026 20:45:25] ERROR: Documento inválido.
+[06/07/2026 20:45:25] ERROR: El documento solo debe contener números.
+[06/07/2026 20:45:25] ERROR: Correo electrónico inválido.
+[06/07/2026 20:45:25] ERROR: El correo electrónico no es válido.
+[06/07/2026 20:45:25] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 20:45:25] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 20:45:25] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 20:45:25] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 20:45:25] ERROR: Tarifa inválida.
+[06/07/2026 20:45:25] ERROR: La tarifa debe ser mayor que cero.
+[06/07/2026 20:45:25] ERROR: Duración inválida para reserva de sala.
+[06/07/2026 20:45:25] ERROR: Las horas deben ser mayores que cero.
+[06/07/2026 20:45:25] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 20:45:25] ERROR: No fue posible procesar la reserva.
+[06/07/2026 20:45:25] ERROR: No existe un servicio asociado.
+[06/07/2026 20:45:25] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 20:45:25] ERROR: No fue posible procesar la reserva.
+[06/07/2026 21:00:49] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 21:00:49] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 21:00:49] ERROR: El nombre está vacío.
+[06/07/2026 21:00:49] ERROR: El nombre no puede estar vacío.
+[06/07/2026 21:00:49] ERROR: Documento con caracteres no válidos.
+[06/07/2026 21:00:49] ERROR: El documento solo debe contener números.
+[06/07/2026 21:00:49] ERROR: Correo electrónico inválido.
+[06/07/2026 21:00:49] ERROR: El correo electrónico ingresado no es válido.
+[06/07/2026 21:00:49] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 21:00:49] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 21:00:49] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 21:00:49] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 21:00:49] ERROR: Tarifa inválida.
+[06/07/2026 21:00:49] ERROR: La tarifa debe ser mayor que cero.
+[06/07/2026 21:00:49] ERROR: Duración inválida para reserva de sala.
+[06/07/2026 21:00:49] ERROR: Las horas deben ser mayores que cero.
+[06/07/2026 21:00:49] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 21:00:49] ERROR: No fue posible procesar la reserva.
+[06/07/2026 21:00:49] ERROR: No existe un servicio asociado.
+[06/07/2026 21:00:49] EVENTO: Proceso de reserva finalizado.
+[06/07/2026 21:00:49] ERROR: No fue posible procesar la reserva.
+[06/07/2026 21:13:45] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 21:13:45] EVENTO: Reserva procesada correctamente.
+[06/07/2026 21:13:45] EVENTO: Finalizó el intento de procesamiento de reserva.
+[06/07/2026 21:14:55] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 21:14:55] EVENTO: Reserva procesada correctamente.
+[06/07/2026 21:14:55] EVENTO: Finalizó el intento de procesamiento de reserva.
+[06/07/2026 21:19:13] ERROR: Correo electrónico inválido.
+[06/07/2026 21:19:13] ERROR: El correo electrónico ingresado no es válido.
+[06/07/2026 21:19:13] EVENTO: Reserva confirmada para Leidy Gonzalez
+[06/07/2026 21:19:13] EVENTO: Reserva procesada correctamente.
+[06/07/2026 21:19:13] EVENTO: Finalizó el intento de procesamiento de reserva.
+[06/07/2026 21:19:13] ERROR: Duración inválida en la reserva.
+[06/07/2026 21:19:13] ERROR: Error procesando reserva: La duración debe ser mayor que cero.
+[06/07/2026 21:19:13] EVENTO: Finalizó el intento de procesamiento de reserva.
+[06/07/2026 21:19:13] ERROR: La reserva no pudo ser procesada.
+[06/07/2026 21:19:13] ERROR: Reserva sin servicio asociado.
+[06/07/2026 21:19:13] ERROR: Error procesando reserva: La reserva debe tener un servicio.
+[06/07/2026 21:19:13] EVENTO: Finalizó el intento de procesamiento de reserva.
+[06/07/2026 21:19:13] ERROR: La reserva no pudo ser procesada.
+[06/07/2026 21:19:13] EVENTO: Reserva cancelada para Leidy Gonzalez

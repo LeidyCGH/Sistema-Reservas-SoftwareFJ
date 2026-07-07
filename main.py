@@ -1,9 +1,6 @@
-from cliente import Cliente
+from operaciones import ejecutar_operaciones
 
-cliente = Cliente(
-    "Leidy Gonzalez",
-    "123456789",
-    "lgherna1@gmail.com"
-)
 
-print(cliente.mostrar_datos())
+if __name__ == "__main__":
+
+    ejecutar_operaciones()
